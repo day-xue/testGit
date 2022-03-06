@@ -8,3 +8,4 @@ async function fn2(){
 }
 fn1()
 console.log(1)
+console.log('我修改了index.js文件')
